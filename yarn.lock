@@ -548,6 +548,11 @@ hexo-cli@^4.3.2:
     resolve "^1.20.0"
     tildify "^2.0.0"
 
+hexo-filter-plantuml@^2.1.1:
+  version "2.1.1"
+  resolved "https://registry.npmjs.org/hexo-filter-plantuml/-/hexo-filter-plantuml-2.1.1.tgz"
+  integrity sha512-MUBbuDyPiq1cN1rJffe9izZqWAHpAGVW25CGe4WHqjD4IkdcNjhrk9l7WTej9IGQCO132UJeTkOqreHanKdQag==
+
 hexo-front-matter@^4.2.1:
   version "4.2.1"
   resolved "https://registry.npmjs.org/hexo-front-matter/-/hexo-front-matter-4.2.1.tgz"
