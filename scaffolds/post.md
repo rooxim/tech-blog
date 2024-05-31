@@ -5,7 +5,6 @@ categories:
   - #some
 tags:
   - #some
-coauthor:
-  - #some
+coauthor: #coauthor
 sitemap: true
 ---
