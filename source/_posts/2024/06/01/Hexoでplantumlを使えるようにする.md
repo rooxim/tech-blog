@@ -1,11 +1,14 @@
 ---
 title: Hexoでplantumlを使えるようにする
 categories:
-  - null
-tags:
-  - null
-coauthor: Yuto Uehara
+  - 技術
+  - Hexo
+coauthor:
   - Yuto Uehara
+tags:
+  - node
+  - hexo
+  - plantUML
 sitemap: true
 date: 2024-06-01 04:45:17
 ---

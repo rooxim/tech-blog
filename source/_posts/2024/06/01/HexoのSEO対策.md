@@ -1,11 +1,21 @@
 ---
 title: HexoのSEO対策
 categories:
-  - null
+ - 技術
+ - Hexo
+ - SEO
+coauthor:
+ - Yuto Uehara
 tags:
-  - null
-coauthor: Yuto Uehara
-  - Yuto Uehara
+ - node
+ - hexo
+ - SEO
+ - GA4
+ - Google Search Console
+ - robots.txt
+ - sitemap.xml
+ - rss
+ - atom
 sitemap: true
 date: 2024-06-01 04:43:06
 ---
