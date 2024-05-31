@@ -1,5 +1,5 @@
 ---
-title: Hexoのカスタマイズ:hotReload編
+title: HexoをGithubPagesにデプロイ
 categories:
   - null
 tags:

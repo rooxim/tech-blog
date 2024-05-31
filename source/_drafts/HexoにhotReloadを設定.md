@@ -1,5 +1,5 @@
 ---
-title: Hexoのデプロイの設定
+title: HexoにhotReloadを設定
 categories:
   - null
 tags:

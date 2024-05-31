@@ -159,7 +159,8 @@ site_state: true
 social:
   GitHub: https://github.com/rooxim || fab fa-github
   E-Mail: mailto:info@mail.rooxim.com || fa fa-envelope
-  RSS: /atom.xml || fa fa-rss
+  RSS(atom): /atom.xml || fa fa-rss
+  RSS(rss2): /rss2.xml || fa fa-rss
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
