@@ -5,12 +5,15 @@
 # Site
 title: ルークシム技術ブログ
 subtitle: ''
-description: ''
+description: '「あなたの会社のCTO」ROOXIM株式会社が運営する技術ブログです。業務や、最新の技術について紹介していきます。'
 keywords:
+  - ルークシム株式会社
+  - ROOXIM.inc
+  - あなたの会社のCTO
 author: ROOXIM.inc
 language:
   - ja
-  - en
+  - end
 timezone: 'Japan'
 
 # URL
@@ -170,8 +173,9 @@ robotstxt:
   allow:
   sitemap: /sitemap.xml
 
-author_generator:
-  per_page: 10
-  url_map:
-    "Alice Alexander": alice-alexander
-    "Bob Brown": bob-brown
+markdown:
+  preset: default
+  render:
+    html: true
+  plugins:
+    - name: 'markdown-it-imsize'
