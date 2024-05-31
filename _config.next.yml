@@ -159,6 +159,7 @@ site_state: true
 social:
   GitHub: https://github.com/rooxim || fab fa-github
   E-Mail: mailto:info@mail.rooxim.com || fa fa-envelope
+  RSS: /atom.xml || fa fa-rss
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -427,7 +428,7 @@ github_banner:
 # ---------------------------------------------------------------
 
 font:
-  enable: false
+  enable: true
 
   # Uri of fonts host, e.g. https://fonts.googleapis.com (Default).
   host:
@@ -440,7 +441,7 @@ font:
   # Global font settings used for all elements inside <body>.
   global:
     external: true
-    family: Lato
+    family: Noto Sans JP
     size:
 
   # Font settings for site title (.site-title).
