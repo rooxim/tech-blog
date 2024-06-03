@@ -168,12 +168,6 @@ feed:
 robotstxt:
   useragent: "*"
   disallow:
-    - /archives/
-    - /assets/
-    - /css/
-    - /images/
-    - /js/
-    - /tags/
     - 404.html
   allow:
   sitemap: /sitemap.xml
