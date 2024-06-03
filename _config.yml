@@ -187,3 +187,8 @@ markdown:
     html: true
   plugins:
     - name: 'markdown-it-imsize'
+
+browsersync:
+  logLevel: "warn"
+  ghostMode:
+    scroll: true
