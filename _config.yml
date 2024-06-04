@@ -186,3 +186,6 @@ browsersync:
   logLevel: "warn"
   ghostMode:
     scroll: true
+
+symbols_count_time:
+  wpm: 200

@@ -12,6 +12,7 @@
     "version": "7.2.0"
   },
   "dependencies": {
+    "@mdit/plugin-img-size": "^0.12.0",
     "css": "^3.0.0",
     "hexo": "^7.0.0",
     "hexo-filter-plantuml": "^2.1.1",
@@ -29,8 +30,7 @@
     "hexo-renderer-markdown-it": "^7.1.1",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-theme-next": "^8.20.0",
-    "hexo-word-counter": "^0.2.0",
-    "markdown-it-imsize": "^2.0.1"
+    "hexo-word-counter": "^0.2.0"
   },
   "devDependencies": {
     "hexo-browsersync": "^0.3.0",
