@@ -931,3 +931,14 @@ vendors:
 css: css
 js: js
 images: images
+
+
+
+coauthors:
+  [Yuto Uehara]:
+    # It will display nick
+    nick: Yuto Uehara
+    # When your co-authors is click, will jump to there
+    link: https://github.com/rooxim-uehara
+    # It defines the order of precedence in post meta
+    #post_meta_order: 0
