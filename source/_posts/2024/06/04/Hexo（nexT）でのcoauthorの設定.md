@@ -82,12 +82,12 @@ coauthor: Yuto Uehara
 ## gitのユーザ名の確認と変更方法
 gitのユーザ名は以下のコマンドで確認できます。
 ```bash
-git config user.name
+git config --global user.name
 ```
 
 また変更したい場合は以下のコマンドで変更可能です。
 ```bash
-git config user.name "Yuto Uehara"
+git config --global user.name "Yuto Uehara"
 ```
 
 # 最後に
