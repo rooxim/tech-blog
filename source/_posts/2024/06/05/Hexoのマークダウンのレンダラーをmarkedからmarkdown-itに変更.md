@@ -10,7 +10,7 @@ tags:
   - node
   - hexo
   - markdown it
-  - '@mdit/plugin-img-size'
+  - 'markdown-it-imsize'
 date: 2024-06-05 03:48:02
 ---
 
@@ -64,9 +64,9 @@ hexo-renderer-markedからhexo-renderer-markdown-itに切り替える必要が�
 npm i hexo-renderer-markdown-it --save
 ```
 
-## `@mdit/plugin-img-size`をインストール
-`@mdit/plugin-img-size`は画像のサイズを指定するmarkdown-itのプラグインです。
-以下のコマンドで`@mdit/plugin-img-size`をインストールします。
+## `markdown-it-imsize`をインストール
+`markdown-it-imsize`は画像のサイズを指定するmarkdown-itのプラグインです。
+以下のコマンドで`markdown-it-imsize`をインストールします。
 ```bash
 npm i @mdit/plugin-img-size --save
 ```
@@ -80,7 +80,7 @@ markdown:
   render:
     html: true
   plugins:
-    - name: '@mdit/plugin-img-size'
+    - name: 'markdown-it-imsize'
 ```
 
 ## `hexo-renderer-marked`をアンインストール
